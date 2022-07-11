@@ -1,0 +1,22 @@
+{
+  "name": "typescript-design-pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkyle94/TypeScript-Design-Pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imkyle94/TypeScript-Design-Pattern/issues"
+  },
+  "homepage": "https://github.com/imkyle94/TypeScript-Design-Pattern#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
