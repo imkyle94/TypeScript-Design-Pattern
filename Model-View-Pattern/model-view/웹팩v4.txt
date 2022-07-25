@@ -5,8 +5,9 @@ module.exports = {
     filename: "app.js",
     path: path.resolve(__dirname, "dist"),
   },
+  mode: "development",
   module: {
-    loaders: [
+    rules: [
       {
         test: /\.tsx?$/,
         loader: "ts-loader",
@@ -16,6 +17,7 @@ module.exports = {
       },
     ],
   },
+
   resolve: {
     extensions: [".ts", ".js"],
   },
